@@ -11,4 +11,3 @@ The dashboard has been completed for the listed property insights on the followi
 6)  Average land size per property type
 7)  Average price per property type
 
-For lead and client Another dashboard is in progress........
